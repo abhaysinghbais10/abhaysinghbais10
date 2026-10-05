@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contribution Journey</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">GITHUB ACTIVITY</p>
+        <h1>Contribution Journey</h1>
+        <p class="subtitle">A living contribution-style interface with an animated snake travelling through the activity grid.</p>
+      </div>
+      <a class="github" href="https://github.com/abhaysinghbais10" target="_blank" rel="noreferrer">View GitHub ↗</a>
+    </header>
+
+    <section class="stats" aria-label="Contribution visual statistics">
+      <div><strong id="total">0</strong><span>visual activity</span></div>
+      <div><strong id="active">0</strong><span>active days</span></div>
+      <div><strong id="streak">0</strong><span>best streak</span></div>
+      <div><strong>52</strong><span>weeks</span></div>
+    </section>
+
+    <section class="card">
+      <div class="grid-header">
+        <span>Less</span>
+        <div class="legend" id="legend"></div>
+        <span>More</span>
+      </div>
+      <div class="calendar-wrap">
+        <div class="days"><span>Mon</span><span>Wed</span><span>Fri</span></div>
+        <div class="calendar" id="calendar" aria-label="Contribution activity calendar"></div>
+      </div>
+      <div class="snake-status"><span class="dot"></span><span id="status">Snake is exploring your contribution journey…</span></div>
+    </section>
+
+    <section class="controls">
+      <button id="toggle">Pause snake</button>
+      <button id="boost">Boost activity</button>
+      <label>Speed <input id="speed" type="range" min="40" max="220" value="95" /></label>
+    </section>
+
+    <p class="note">The dense activity mode is a portfolio visualization. Your real GitHub contribution history is not changed by this page.</p>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
