@@ -16,6 +16,16 @@ secure authentication, and scalable backend systems.
 <a href="https://abhaysinghbais10.github.io/abhaysinghbais10/">
   🎮 **Play Code Quest →**
 </a>
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/abhaysinghbais10/abhaysinghbais10/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 ### 🧠 Currently
 
