@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Abhay's Code Quest — a mini developer challenge." />
+  <title>Abhay's Code Quest</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <a class="brand" href="https://github.com/abhaysinghbais10" target="_blank" rel="noreferrer">
+        <span class="brand-mark">&lt;/&gt;</span>
+        <span>ABHAY<span class="muted">.DEV</span></span>
+      </a>
+      <a class="github-link" href="https://github.com/abhaysinghbais10" target="_blank" rel="noreferrer">GitHub ↗</a>
+    </header>
+
+    <section id="startScreen" class="hero panel">
+      <div class="eyebrow">DEVELOPER CHALLENGE · 05 ROUNDS</div>
+      <h1>Code <span>Quest</span></h1>
+      <p class="hero-copy">A quick test of Java, JavaScript, React, Node.js and Git. Pick the right answer, earn XP, and unlock your developer rank.</p>
+
+      <div class="stats-row">
+        <div><strong>05</strong><span>questions</span></div>
+        <div><strong>+100</strong><span>XP / correct</span></div>
+        <div><strong>01</strong><span>life / mistake</span></div>
+      </div>
+
+      <button id="startBtn" class="primary-btn">Start mission <span>→</span></button>
+      <p class="tiny">No sign-in · Runs entirely in your browser</p>
+    </section>
+
+    <section id="gameScreen" class="game panel hidden" aria-live="polite">
+      <div class="game-head">
+        <div>
+          <div class="eyebrow" id="roundLabel">ROUND 01 / 05</div>
+          <h2 id="categoryLabel">JavaScript</h2>
+        </div>
+        <div class="score-box"><span>XP</span><strong id="score">0</strong></div>
+      </div>
+
+      <div class="progress"><span id="progressBar"></span></div>
+
+      <div class="question-card">
+        <div class="question-meta"><span id="difficulty">MEDIUM</span><span id="streak">STREAK 0</span></div>
+        <h3 id="question">Loading question…</h3>
+        <div id="answers" class="answers"></div>
+        <p id="feedback" class="feedback" role="status"></p>
+      </div>
+
+      <button id="nextBtn" class="secondary-btn hidden">Next challenge →</button>
+    </section>
+
+    <section id="resultScreen" class="result panel hidden">
+      <div class="eyebrow">MISSION COMPLETE</div>
+      <div class="rank-icon" id="rankIcon">◆</div>
+      <h2 id="rankTitle">Code Explorer</h2>
+      <p id="resultCopy">Nice run.</p>
+      <div class="final-score"><span>FINAL XP</span><strong id="finalScore">0</strong></div>
+      <div class="result-actions">
+        <button id="retryBtn" class="primary-btn">Play again <span>↻</span></button>
+        <a class="secondary-btn link-btn" href="https://github.com/abhaysinghbais10" target="_blank" rel="noreferrer">View GitHub ↗</a>
+      </div>
+    </section>
+
+    <footer>Built by Abhay Singh Bais · <span>Keep building.</span></footer>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
