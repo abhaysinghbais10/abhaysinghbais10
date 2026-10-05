@@ -9,8 +9,8 @@ secure authentication, and scalable backend systems.
 
 ### 🚀 Featured Projects
 
-- 💼 **Job Portal** — Full-stack platform connecting recruiters and job seekers.
-- 🎓 **Certificate System** — Digital certificate generation & QR-based verification.
+- 💼 **Job Portal with AI Matching** — Full-stack platform connecting recruiters and job seekers.
+- 🎓 **Certificate Generation and Verification System** — Digital certificate generation & QR-based verification.
 - 🎮 **Code Quest** — Test your developer skills in my interactive mini-game.
 
 <a href="https://abhaysinghbais10.github.io/abhaysinghbais10/">
