@@ -17,7 +17,7 @@ I built a small developer challenge for visitors to my profile — 5 quick round
   <img src="game/game-preview.svg" alt="Play Abhay's Code Quest" width="760">
 </a>
 
-**[⚡ Play Code Quest](https://abhaysinghbais10.github.io/abhaysinghbais10/)** · *No sign-in required*
+**[Play Code Quest](https://abhaysinghbais10.github.io/abhaysinghbais10/)** · *No sign-in required*
 
 ### 🚀 Featured projects
 
