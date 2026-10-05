@@ -24,5 +24,5 @@ Building full-stack projects · Practicing DSA · Solving **400+ LeetCode proble
 ### 📫 Let's Connect
 
 [GitHub](https://github.com/abhaysinghbais10) ·
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/abhay-singh-bais/?isSelfProfile=true)) ·
+[LinkedIn](https://www.linkedin.com/in/abhay-singh-bais/?isSelfProfile=true) ·
 [LeetCode](https://leetcode.com/u/Abhaysingh98/)
