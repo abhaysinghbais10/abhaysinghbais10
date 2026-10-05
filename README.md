@@ -1,34 +1,28 @@
 # 👋 Hi, I'm Abhay Singh Bais
 
-<p align="left">
-  <strong>Still learning · Still building · Still curious.</strong><br>
-  I enjoy turning ideas into useful web experiences and growing through hands-on development.
-</p>
+### Full Stack Developer · Problem Solver · Builder
 
-### 🧰 What I work with
+I build **full-stack web applications** with a focus on clean UI, REST APIs,
+secure authentication, and scalable backend systems.
 
-`Java` · `JavaScript` · `React` · `Node.js` · `HTML` · `CSS` · `Git`
+💻 `Java` · `JavaScript` · `React` · `Node.js` · `Express` · `MySQL` · `MongoDB`
 
-### 🎮 Code Quest
+### 🚀 Featured Projects
 
-I built a small developer challenge for visitors to my profile — 5 quick rounds covering Java, JavaScript, React, Node.js and Git.
+- 💼 **Job Portal** — Full-stack platform connecting recruiters and job seekers.
+- 🎓 **Certificate System** — Digital certificate generation & QR-based verification.
+- 🎮 **Code Quest** — Test your developer skills in my interactive mini-game.
 
 <a href="https://abhaysinghbais10.github.io/abhaysinghbais10/">
-  <img src="game/game-preview.svg" alt="Play Abhay's Code Quest" width="760">
+  🎮 **Play Code Quest →**
 </a>
 
-**[Play Code Quest](https://abhaysinghbais10.github.io/abhaysinghbais10/)** · *No sign-in required*
+### 🧠 Currently
 
-### 🚀 Featured projects
+Building full-stack projects · Practicing DSA · Solving **400+ LeetCode problems**
 
-- **NeighbourHelp** — a web platform focused on connecting neighbours and sharing local help/resources.
-- **Tic-Tac-Toe** — a JavaScript game built while sharpening frontend fundamentals.
-- **Stone Paper Scissors** — a lightweight browser game built with HTML, CSS and JavaScript.
+### 📫 Let's Connect
 
-### 📌 Currently
-
-- Building full-stack projects
-- Practicing problem solving & DSA
-- Learning by shipping small, complete products
-
-> **Keep building.**
+[GitHub](https://github.com/abhaysinghbais10) ·
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/abhay-singh-bais/?isSelfProfile=true)) ·
+[LeetCode](https://leetcode.com/u/Abhaysingh98/)
